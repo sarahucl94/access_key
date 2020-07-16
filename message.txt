@@ -1,0 +1,33 @@
+Dear ${PERSON_NAME},
+
+Thank you for filling in the eligibility questionnaire for the 'Watch-a-movie' project! 
+
+Now we would like to kindly ask you which movies you have watched from our movie list.
+
+Please could you fill in the form (link attached) using the ACCESS CODE below:
+
+$ACCESS_CODE
+
+https://goo.gl/forms/59dxp3n4dkgXvCMc2
+
+Many thanks for your time. We will get back to you to confirm the time slots you have requested as soon as possible.
+
+IMPORTANT: we cannot confirm time slots without this form being completed.
+
+
+Kind regards,
+
+Sarah
+
+-----------------------------------
+PI - Dr Jeremy I Skipper
+Email - jskipper@lab-lab.org
+Office - 020 3108 5206
+
+PhD student - Sarah Aliko
+Email - sarah.aliko.17@ucl.ac.uk
+Phone - 07746455447
+
+PhD student – Florin Gheorghiu
+Email - florin.gheorghiu.14@ucl.ac.uk
+Phone - 07519213784
